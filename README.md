@@ -11,7 +11,7 @@
 > [!WARNING]
 > MV is in beta and will have bugs and issues
 
-https://github.com/user-attachments/assets/3686fa43-1d38-4dc5-a988-276b4b7b68ba
+https://github.com/user-attachments/assets/86ba198c-ff18-4822-bcad-fcc6bb5b000d
 
 ## About
 
