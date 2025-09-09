@@ -5,7 +5,7 @@
 
 <p align="center">
     <a href="https://github.com/humblepenguinn/mv/actions/workflows/release.yaml" target="_blank"><img alt="Build Status" src="https://img.shields.io/github/actions/workflow/status/humblepenguinn/mv/release.yaml?style=flat&logo=github&labelColor=%2324292e" /></a>
-    <a href="https://github.com/humblepenguinn/mv/releases/latest" target="_blank"><img alt="Release" src="https://img.shields.io/github/v/release/humblepenguinn/mv?sort=semver&style=flat-square&color=1976d2&labelColor=1e1e1e&logo=github&logoColor=ffffff"></a>
+    <a href="https://github.com/humblepenguinn/mv/releases/latest" target="_blank"><img alt="Release" src="https://img.shields.io/github/v/release/humblepenguinn/mv?sort=semver&style=flat&color=1976d2&labelColor=1e1e1e&logo=github&logoColor=ffffff"></a>
 </p>
 
 https://github.com/user-attachments/assets/86ba198c-ff18-4822-bcad-fcc6bb5b000d
