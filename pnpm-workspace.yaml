@@ -1,0 +1,6 @@
+packages:
+  - 'plugins/vite-plugin-wasm-pack'
+
+onlyBuiltDependencies:
+  - '@tailwindcss/oxide'
+  - esbuild

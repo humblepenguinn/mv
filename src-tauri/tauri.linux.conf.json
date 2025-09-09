@@ -1,0 +1,13 @@
+{
+    "productName": "mv",
+    "bundle": {
+      "linux": {
+        "deb": {
+          "desktopTemplate": "./template.desktop"
+        },
+        "rpm": {
+          "desktopTemplate": "./template.desktop"
+        }
+      }
+    }
+  }

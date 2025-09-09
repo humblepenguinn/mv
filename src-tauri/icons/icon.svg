@@ -1,0 +1,22 @@
+<svg
+  width="64"
+  height="64"
+  viewBox="0 0 64 64"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <rect width="64" height="64" rx="12" ry="12" fill="#121212" />
+  <text
+    x="32"
+    y="36"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    fill="#ffffff"
+    font-size="24"
+    font-family="ui-monospace, SFMono-Regular, 'SF Mono', Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+    font-weight="600"
+    letter-spacing="1px"
+  >
+    MV
+  </text>
+</svg>

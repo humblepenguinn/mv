@@ -1,0 +1,34 @@
+{
+  "identifier": "desktop-capability",
+  "platforms": [
+    "macOS",
+    "windows",
+    "linux"
+  ],
+  "windows": [
+    "*"
+  ],
+  "permissions": [
+    "core:default",
+    "core:app:allow-identifier",
+    "core:event:allow-emit",
+    "core:event:allow-listen",
+    "core:event:allow-unlisten",
+    "core:webview:allow-set-webview-zoom",
+    "core:window:allow-internal-toggle-maximize",
+    "core:window:allow-is-fullscreen",
+    "core:window:allow-is-maximized",
+    "core:window:allow-set-resizable",
+    "core:window:allow-maximize",
+    "core:window:allow-minimize",
+    "core:window:allow-close",
+    "core:window:allow-set-decorations",
+    "core:window:allow-set-title",
+    "core:window:allow-show",
+    "core:window:allow-start-dragging",
+    "core:window:allow-theme",
+    "core:window:allow-unmaximize",
+    "window-state:default",
+    "updater:default"
+  ]
+}
